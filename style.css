@@ -13,8 +13,11 @@ h1{
 
 .odin{
     text-align: center;
-    font-size: 75px;
-    background-color: white;
+    font-size: 7rem;
+    background-color: rgb(250, 216, 152);
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 2rem;
 }
 
 a{
@@ -31,3 +34,5 @@ a{
   width: 500px;
   height: 500px;
 }
+
+
